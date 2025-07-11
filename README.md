@@ -22,9 +22,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EswarAdithya011&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EswarAdithya011&theme=merko)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=EswarAdithya011&theme=radical&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=EswarAdithya011&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=EswarAdithya011&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=EswarAdithya011&theme=tokyonight_duo&hide_border=true)
+
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=EswarAdithya011&theme=gruvbox&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-![RTL Projects Banner](https://yourdomain.com/assets/banner.png)
