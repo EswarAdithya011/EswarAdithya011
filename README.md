@@ -11,13 +11,7 @@
 ![Language](https://img.shields.io/badge/HDL-Verilog-orange?style=flat-square&logo=verilog)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20WSL2-black?style=flat-square&logo=linux)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge&logo=verilog&logoColor=white">
-  <img src="https://img.shields.io/badge/Xilinx-Vivado-red?style=for-the-badge&logo=xilinx&logoColor=white">
-  <img src="https://img.shields.io/badge/EDA-ModelSim-yellow?style=for-the-badge&logo=intel&logoColor=black">
-  <img src="https://img.shields.io/badge/Platform-FPGA%20Nexys4-green?style=for-the-badge&logo=digilent&logoColor=white">
-  <img src="https://img.shields.io/badge/Tool-Cadence%20Virtuoso-lightgrey?style=for-the-badge&logo=cadence">
-</p>
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EswarAdithya011&theme=github_dark)
 
 
 ![Eswar GitHub Stats](https://github-readme-stats.vercel.app/api?username=EswarAdithya011&show_icons=true&theme=highcontrast)
