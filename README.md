@@ -1,4 +1,10 @@
 ## Hi there 👋
+---
+---
+### ✍️ Core Philosophy
+> "Each module in this repo is a war story — crafted from countless logic failures, waveform glitches, and late-night bug hunts."
+
+---
 
 ![RTL Challenge](https://img.shields.io/badge/RTL%20Design-100%20Days%20Completed-success?style=flat-square&color=green&logo=verilog)
 ![FPGA Ready](https://img.shields.io/badge/Target-FPGA/Nexys4-dddddd?style=flat-square&logo=xilinx)
