@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-> _“Design. Simulate. Break. Repeat.”_
+![Quote](https://img.shields.io/badge/I%20code%20until%20it%20clicks.--Then%20break%20it%20to%20learn%20more.-orange?style=for-the-badge&logo=verilog)
+![Quote](https://img.shields.io/badge/I%20code%20until%20it%20clicks.--Then%20break%20it%20to%20learn%20more.-orange?style=for-the-badge&logo=verilog)
 
 ---
 
