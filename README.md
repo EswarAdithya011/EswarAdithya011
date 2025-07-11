@@ -11,18 +11,6 @@
 ![Language](https://img.shields.io/badge/HDL-Verilog-orange?style=flat-square&logo=verilog)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20WSL2-black?style=flat-square&logo=linux)
 
-# 🚀 Verilog-HDL: RTL Design Showcase
-
-![RTL Challenge](https://github-readme-stats.vercel.app/api/badge.svg?username=EswarAdithya011&title=RTL%20Challenge&icon=verilog&theme=radical)
-![FPGA Ready](https://github-readme-stats.vercel.app/api/badge.svg?username=EswarAdithya011&title=FPGA%20Nexys4&icon=xilinx&theme=tokyonight)
-![Simulation](https://img.shields.io/badge/Simulation-ModelSim-yellow?style=for-the-badge&logo=intel)
-![Platform](https://img.shields.io/badge/Platform-Linux%7CWSL2-black?style=for-the-badge&logo=linux)
-
----
-
-![Contribution Snake](./snake.svg)
-
-
 <p align="left">
   <img src="https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge&logo=verilog&logoColor=white">
   <img src="https://img.shields.io/badge/Xilinx-Vivado-red?style=for-the-badge&logo=xilinx&logoColor=white">
