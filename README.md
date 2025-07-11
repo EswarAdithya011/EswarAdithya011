@@ -3,7 +3,8 @@
 > "I code until it clicks. Then break it, just to learn more."
 
 ---
-
+<div align = "center">
+  
 ![RTL Challenge](https://img.shields.io/badge/RTL%20Design-100%20Days%20Completed-success?style=flat-square&color=green&logo=verilog)
 ![FPGA Ready](https://img.shields.io/badge/Target-FPGA/Nexys4-dddddd?style=flat-square&logo=xilinx)
 ![Tool Used](https://img.shields.io/badge/Tool-Xilinx%20Vivado%202024.1-blue?logo=xilinx&style=flat-square)
@@ -18,6 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EswarAdithya011&layout=compact&theme=radical)
 
 ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EswarAdithya011&theme=github_dark)
+</div>
 
 <div align = "center">
   
