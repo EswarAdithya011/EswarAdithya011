@@ -20,5 +20,5 @@
 ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EswarAdithya011&theme=github_dark)
 
 <div align = "center">
-    ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+   ![snake gif](https://github.com/EswarAdithya011/EswarAdithya011/blob/output/github-snake-dark.svg)
 </div>
