@@ -1,7 +1,5 @@
 ## Hi there 👋
----
 
-### ✍️ Core Philosophy
 > "Each module in this repo is a war story — crafted from countless logic failures, waveform glitches, and late-night bug hunts."
 
 ---
