@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-> "Each module in this repo is a war story — crafted from countless logic failures, waveform glitches, and late-night bug hunts."
+> _“Design. Simulate. Break. Repeat.”_
 
 ---
 
