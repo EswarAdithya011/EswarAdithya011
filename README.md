@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Quote](https://img.shields.io/badge/I%20code%20until%20it%20clicks.--Then%20break%20it%20to%20learn%20more.-orange?style=for-the-badge&logo=verilog)
-![Quote](https://img.shields.io/badge/I%20code%20until%20it%20clicks.--Then%20break%20it%20to%20learn%20more.-orange?style=for-the-badge&logo=verilog)
+> "I code until it clicks. Then break it, just to learn more."
 
 ---
 
@@ -12,6 +11,7 @@
 ![Language](https://img.shields.io/badge/HDL-Verilog-orange?style=flat-square&logo=verilog)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20WSL2-black?style=flat-square&logo=linux)
 
+![Snake Contributions](https://github.com/YourUsername/YourRepo/blob/main/snake.svg)
 
 
 <p align="left">
