@@ -19,4 +19,10 @@
 
 ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EswarAdithya011&theme=github_dark)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
+</picture>
+
 ![GitHub Snake Light](https://github.com/EswarAdithya011/EswarAdithya011/blob/output/snake.svg)
