@@ -13,8 +13,8 @@
 
 
 
-![Eswar GitHub Stats](https://github-readme-stats.vercel.app/api?username=EswarAdithya011&show_icons=true&theme=highcontrast)
+  ![Eswar GitHub Stats](https://github-readme-stats.vercel.app/api?username=EswarAdithya011&show_icons=true&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EswarAdithya011&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EswarAdithya011&layout=compact&theme=radical)
 
 ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EswarAdithya011&theme=github_dark)
