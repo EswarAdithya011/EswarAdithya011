@@ -11,61 +11,20 @@
 ![Simulator](https://img.shields.io/badge/Simulation-ModelSim-yellow?style=flat-square&logo=intel)
 ![Language](https://img.shields.io/badge/HDL-Verilog-orange?style=flat-square&logo=verilog)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20WSL2-black?style=flat-square&logo=linux)
+<div>
 
 <div align="center">
-
-# 🚀 Skills & Tools
-
----
-
-## 🖥️ Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Verilog HDL](https://img.shields.io/badge/Verilog-FFA500?style=for-the-badge&logo=verilog&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FFA500?style=for-the-badge&logo=systemverilog&logoColor=white)
-
----
-
-## 🛠️ Technical Skills
-
-![Digital Circuit Design](https://img.shields.io/badge/Digital%20Circuit%20Design-007396?style=for-the-badge)
-![CMOS Design](https://img.shields.io/badge/CMOS%20Design-8A2BE2?style=for-the-badge)
-![RTL Coding](https://img.shields.io/badge/RTL%20Coding-228B22?style=for-the-badge)
-![UVM](https://img.shields.io/badge/UVM-FF4500?style=for-the-badge)
-![AMBA AHB](https://img.shields.io/badge/AMBA%20AHB-1E90FF?style=for-the-badge)
-![APB](https://img.shields.io/badge/APB-20B2AA?style=for-the-badge)
-![STA](https://img.shields.io/badge/STA-FFD700?style=for-the-badge)
-![Floorplanning](https://img.shields.io/badge/Floorplanning-008B8B?style=for-the-badge)
-![Routing](https://img.shields.io/badge/Routing-DAA520?style=for-the-badge)
-![FPGA](https://img.shields.io/badge/FPGA-006400?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge)
-
----
-
-## 🧰 Tools & Platforms
-
-![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-FF0000?style=for-the-badge)
-![Cadence NCsim](https://img.shields.io/badge/Cadence%20NCsim-FF0000?style=for-the-badge)
-![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-F7931E?style=for-the-badge&logo=xilinx&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-0099CC?style=for-the-badge)
-![Intel Quartus Prime](https://img.shields.io/badge/Intel%20Quartus%20Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![EDAPlayground](https://img.shields.io/badge/EDAPlayground-2D2D2D?style=for-the-badge)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-FF69B4?style=for-the-badge)
-
----
-
-## 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=ff69b4)
-
----
-
-</div>
-
+🌟 Skills & Tools
+🖥️ Programming Languages
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> </a> <a href="https://isocpp.org/"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> </a> <img src="https://img.shields.io/badge/Verilog-FFA500?style=flat-square" alt="Verilog HDL" /> <img src="https://img.shields.io/badge/SystemVerilog-FFA500?style=flat-square" alt="SystemVerilog" />
+🛠️ Technical Skills
+<img src="https://img.shields.io/badge/Digital%20Circuit%20Design-007396?style=flat-square" alt="Digital Circuit Design" /> <img src="https://img.shields.io/badge/CMOS%20Design-8A2BE2?style=flat-square" alt="CMOS Design" /> <img src="https://img.shields.io/badge/RTL%20Coding-228B22?style=flat-square" alt="RTL Coding" /> <img src="https://img.shields.io/badge/UVM-FF4500?style=flat-square" alt="UVM" /> <img src="https://img.shields.io/badge/AMBA%20AHB-1E90FF?style=flat-square" alt="AMBA AHB" /> <img src="https://img.shields.io/badge/APB-20B2AA?style=flat-square" alt="APB" /> <img src="https://img.shields.io/badge/STA-FFD700?style=flat-square" alt="STA" /> <img src="https://img.shields.io/badge/Floorplanning-008B8B?style=flat-square" alt="Floorplanning" /> <img src="https://img.shields.io/badge/Routing-DAA520?style=flat-square" alt="Routing" /> <img src="https://img.shields.io/badge/FPGA-006400?style=flat-square" alt="FPGA" /> <a href="https://www.arduino.cc/"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" /> </a> <img src="https://img.shields.io/badge/ESP8266-000000?style=flat-square" alt="ESP8266" />
+🧰 Tools & Platforms
+<img src="https://img.shields.io/badge/Cadence%20Virtuoso-FF0000?style=flat-square" alt="Cadence Virtuoso" /> <img src="https://img.shields.io/badge/Cadence%20NCsim-FF0000?style=flat-square" alt="Cadence NCsim" /> <a href="https://www.xilinx.com/products/design-tools/vivado.html"> <img src="https://img.shields.io/badge/Xilinx%20Vivado-F7931E?style=flat-square&logo=xilinx&logoColor=white" alt="Xilinx Vivado" /> </a> <img src="https://img.shields.io/badge/ModelSim-0099CC?style=flat-square" alt="ModelSim" /> <a href="https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html"> <img src="https://img.shields.io/badge/Intel%20Quartus%20Prime-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel Quartus Prime" /> </a> <a href="https://www.mathworks.com/products/matlab.html"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" /> </a> <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /> </a> <img src="https://img.shields.io/badge/EDAPlayground-2D2D2D?style=flat-square" alt="EDAPlayground" /> <img src="https://img.shields.io/badge/Microcontrollers-FF69B4?style=flat-square" alt="Microcontrollers" />
+📊 Profile Views
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=ff69b4" alt="Profile Views" /> </div>
+  
+<div align="center">
 
 ![Eswar GitHub Stats](https://github-readme-stats.vercel.app/api?username=EswarAdithya011&show_icons=true&theme=highcontrast)
 
