@@ -32,8 +32,12 @@
 </div>
 
 --- 
+<div align = "left">
+  
+### Contribution Snake
 
-## Contribution Snake
+</div>
+
 <div align = "center">
   
 ![GitHub Snake](https://raw.githubusercontent.com/EswarAdithya011/EswarAdithya011/output/github-snake-dark.svg)
