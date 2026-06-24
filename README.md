@@ -1,301 +1,164 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1e2e,60:1f6feb,100:58a6ff&height=200&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
+### &nbsp;
+
+# Korrapolu Eswar Adithya
+
+**`Digital Architect (VLSI Design / Verification / RTL / UVM)`**
+
+*I write code that gets etched into silicon — not deployed to a server.*
 
 <br>
 
-<a href="https://github.com/EswarAdithya011">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=ESWAR+ADITHYA" />
-</a>
-
-<a href="https://github.com/EswarAdithya011">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=3FB950&center=true&vCenter=true&repeat=true&width=700&height=35&lines=%E2%9A%A1+VLSI+Design+%26+Verification+%7C+RTL+Architect+%7C+Silicon+Dreamer+%E2%9A%A1" />
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=EswarAdithya011&style=for-the-badge&color=1f6feb&label=VISITORS" alt="Profile Views" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-adithya/)
 &nbsp;
-<a href="https://github.com/EswarAdithya011?tab=repositories"><img src="https://img.shields.io/badge/REPOS-21-3fb950?style=for-the-badge" alt="Repos" /></a>
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:eswaradithyakorrapolu@gmail.com)
 &nbsp;
-<a href="https://github.com/EswarAdithya011?tab=followers"><img src="https://img.shields.io/github/followers/EswarAdithya011?style=for-the-badge&color=58a6ff&label=Followers" alt="Followers" /></a>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EswarAdithya011)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=EswarAdithya011&style=flat&color=gray&label=Profile+Views)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+### 🧑‍💻 &nbsp;About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjYwNjRsZjJ0bHVhOGw0NmluYjJ6MmRwdW41aGtxczlmZnF2bDFoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-## &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" /> About Me
+I'm a B.Tech student who took the **hard**ware path.  
+While most people chase full-stack frameworks, I chase **setup time violations**.
 
 ```yaml
-name: Korrapolu Eswar Adithya
-located_in: India 🇮🇳
-role: VLSI Design & Verification Engineer (in the making)
-
-fields_of_expertise:
-  - "RTL Design & Synthesis"
-  - "Functional Verification (UVM/SystemVerilog)"
-  - "AMBA Protocol Design (AHB, APB)"
-  - "CMOS Circuit Design (90nm)"
-  - "FPGA Development"
-
-currently_building: "UVM testbenches that catch bugs before they hit silicon 🔬"
-motto: "I code until it clicks. Then break it, just to learn more."
-fun_fact: "I debug at the transistor level. Your segfault is cute. 🫠"
+Domain:     VLSI Design & Verification
+Languages:  Verilog, SystemVerilog, VHDL, C, C++, Java
+Protocols:  AMBA AHB, AMBA APB, SPI, I²C, UART
+Tools:      Xilinx Vivado, Cadence Virtuoso, Spring Boot, MySQL
+Currently:  Building UVM testbenches that catch bugs before tape-out
+Fun Fact:   I've written more testbenches than test cases. And I'm proud of it.
 ```
 
-<br clear="right"/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### 🔨 &nbsp;What I Build
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       DAILY.DEV STYLE                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+**RTL Design** — I've designed **100+ digital circuits** in Verilog. Adders, FIR filters, alarm clocks, FSMs — if it has flip-flops, I've built it.
 
-<div align="center">
+**IP Verification** — I verify hardware IPs using SystemVerilog. Constrained-random stimulus, functional coverage, scoreboards — the whole UVM stack. I've verified **APB-based controllers** and **dual-port RAMs** end-to-end.
 
-## &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28" /> What I Do
+**Protocol Design** — Designed an **AHB-to-APB bridge** from scratch. Because protocols don't bridge themselves.
 
-</div>
+**CMOS Circuits** — Built a **Mealy machine sequence detector in 90nm CMOS** and an **ADC using VCO** — all simulated in Cadence Virtuoso.
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+**FPGA** — Implemented an **audio equalizer in VHDL** on FPGA. Yes, hardware can groove.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWIzNGFhcXRuZ2I1Ym02NTJ4MG03bnMza25qc2RkZDNmbnRyM2VlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" />
-<br><br>
-<b>🏗️ RTL Design</b>
-<br>
-<sub>100+ digital circuits in Verilog<br>FIR filters • Alarm clocks • FSMs<br>From gates to processors</sub>
+**Software** — When I need a break from waveforms, I build full-stack apps in **Java + Spring Boot**. Versatility isn't a weakness.
 
-</td>
-<td width="50%" align="center">
+---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGViYjF3cXM3OGJhdnFqcW5rdHFhdGRuamMxOHhhOXN4dnNsdnI4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" />
-<br><br>
-<b>🧪 Verification</b>
-<br>
-<sub>UVM testbenches & coverage<br>Constrained random • Scoreboards<br>IP verification (APB, RAM)</sub>
+### 🛠️ &nbsp;Tech Stack
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZla3VlbG1mMWxrcjUxdmtqdHN0MnVuNzZscGdvdHQzM2NhbnRseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="100" />
-<br><br>
-<b>📡 Protocol Design</b>
-<br>
-<sub>AMBA AHB & APB protocols<br>AHB-to-APB Bridge design<br>SPI • I²C • UART</sub>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRlcGRyejM5cjE3NmhtdXByN2t0bXl0cXk3MWJlcGxjbHhnNXpyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100" />
-<br><br>
-<b>⚙️ CMOS & FPGA</b>
-<br>
-<sub>90nm CMOS in Cadence Virtuoso<br>FPGA Audio Equalizer (VHDL)<br>ADCs • Sequence Detectors</sub>
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td><b>HDL & Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Verilog-FF6F00?style=flat-square" />
+      <img src="https://img.shields.io/badge/SystemVerilog-DAA520?style=flat-square" />
+      <img src="https://img.shields.io/badge/VHDL-5C2D91?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>VLSI Domains</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/RTL_Design-228B22?style=flat-square" />
+      <img src="https://img.shields.io/badge/UVM-FF4500?style=flat-square" />
+      <img src="https://img.shields.io/badge/Functional_Verification-1E90FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/CMOS_Design-8A2BE2?style=flat-square" />
+      <img src="https://img.shields.io/badge/FPGA_Design-E34F26?style=flat-square" />
+      <img src="https://img.shields.io/badge/Coverage_Driven-20B2AA?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Protocols</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AMBA_AHB-1F6FEB?style=flat-square" />
+      <img src="https://img.shields.io/badge/AMBA_APB-3FB950?style=flat-square" />
+      <img src="https://img.shields.io/badge/AHB↔APB_Bridge-FF8C00?style=flat-square" />
+      <img src="https://img.shields.io/badge/SPI-D83B01?style=flat-square" />
+      <img src="https://img.shields.io/badge/I²C-0078D4?style=flat-square" />
+      <img src="https://img.shields.io/badge/UART-6A0DAD?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=flat-square" />
+      <img src="https://img.shields.io/badge/Cadence_Virtuoso-00629B?style=flat-square" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+### 🚀 &nbsp;Featured Work
 
 <div align="center">
 
-## &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Tech Arsenal
-
-<br>
-
-#### ⚡ HDL & Languages
-<a href="https://github.com/EswarAdithya011">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,linux,git,vscode&theme=dark" />
-</a>
-
-<br>
-
-![Verilog](https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge&logo=v&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-DAA520?style=for-the-badge&logo=v&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-5C2D91?style=for-the-badge)
-
-<br>
-
-#### 🧠 VLSI Domains
-![RTL Design](https://img.shields.io/badge/⚡_RTL_Design-228B22?style=for-the-badge)
-![UVM](https://img.shields.io/badge/🧪_UVM-FF4500?style=for-the-badge)
-![FPGA](https://img.shields.io/badge/🔧_FPGA_Design-E34F26?style=for-the-badge)
-![CMOS](https://img.shields.io/badge/🔬_CMOS_Design-8A2BE2?style=for-the-badge)
-![Functional Verification](https://img.shields.io/badge/🔍_Functional_Verification-1E90FF?style=for-the-badge)
-![Coverage Driven](https://img.shields.io/badge/📊_Coverage_Driven-20B2AA?style=for-the-badge)
-
-<br>
-
-#### 📡 Protocols
-![AHB](https://img.shields.io/badge/AMBA_AHB-1F6FEB?style=for-the-badge)
-![APB](https://img.shields.io/badge/AMBA_APB-3FB950?style=for-the-badge)
-![Bridge](https://img.shields.io/badge/AHB↔APB_Bridge-FF8C00?style=for-the-badge)
-![SPI](https://img.shields.io/badge/SPI-E34F26?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I²C-0078D4?style=for-the-badge)
-![UART](https://img.shields.io/badge/UART-6A0DAD?style=for-the-badge)
-
-<br>
-
-#### 🛠️ Tools & Frameworks
-<a href="https://github.com/EswarAdithya011">
-  <img src="https://skillicons.dev/icons?i=spring,mysql,git,linux,vscode&theme=dark" />
-</a>
-
-<br>
-
-![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge)
-![Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-00629B?style=for-the-badge)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=100-RTL-Design-Projects&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=adbac7)](https://github.com/EswarAdithya011/100-RTL-Design-Projects)
+&nbsp;
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=Vending-Machine-Controller-Using-APB-Protocol-IP-Verification&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=adbac7)](https://github.com/EswarAdithya011/Vending-Machine-Controller-Using-APB-Protocol-IP-Verification)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=AHB2APB-Bridge-Design&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=adbac7)](https://github.com/EswarAdithya011/AHB2APB-Bridge-Design)
+&nbsp;
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=Dual-Port-RAM-IP-Verification-in-SystemVerilog&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=adbac7)](https://github.com/EswarAdithya011/Dual-Port-RAM-IP-Verification-in-SystemVerilog)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=UVM&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=adbac7)](https://github.com/EswarAdithya011/UVM)
+&nbsp;
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=CMOS-Sequence-Detector&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=adbac7)](https://github.com/EswarAdithya011/CMOS-Sequence-Detector)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=3-Tap-FIR-Filter&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=adbac7)](https://github.com/EswarAdithya011/3-Tap-FIR-Filter)
+&nbsp;
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=FPGA-Audio-Equalizer&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=adbac7)](https://github.com/EswarAdithya011/FPGA-Audio-Equalizer)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     FLAGSHIP PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+### 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-## &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> Flagship Projects
-
-<br>
-
-[![100 RTL](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=100-RTL-Design-Projects&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e)](https://github.com/EswarAdithya011/100-RTL-Design-Projects)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EswarAdithya011&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=adbac7&count_private=true" />
 &nbsp;
-[![Vending Machine](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=Vending-Machine-Controller-Using-APB-Protocol-IP-Verification&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e)](https://github.com/EswarAdithya011/Vending-Machine-Controller-Using-APB-Protocol-IP-Verification)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EswarAdithya011&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=adbac7&langs_count=8" />
 
-[![Dual Port RAM](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=Dual-Port-RAM-IP-Verification-in-SystemVerilog&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e)](https://github.com/EswarAdithya011/Dual-Port-RAM-IP-Verification-in-SystemVerilog)
-&nbsp;
-[![AHB2APB](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=AHB2APB-Bridge-Design&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e)](https://github.com/EswarAdithya011/AHB2APB-Bridge-Design)
+<br><br>
 
-[![UVM](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=UVM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e)](https://github.com/EswarAdithya011/UVM)
-&nbsp;
-[![CMOS](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=CMOS-Sequence-Detector&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e)](https://github.com/EswarAdithya011/CMOS-Sequence-Detector)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EswarAdithya011&theme=transparent&hide_border=true&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=adbac7&dates=6e7681&stroke=30363d" />
 
-[![FIR Filter](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=3-Tap-FIR-Filter&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e)](https://github.com/EswarAdithya011/3-Tap-FIR-Filter)
-&nbsp;
-[![FPGA Audio](https://github-readme-stats.vercel.app/api/pin/?username=EswarAdithya011&repo=FPGA-Audio-Equalizer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e)](https://github.com/EswarAdithya011/FPGA-Audio-Equalizer)
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EswarAdithya011&bg_color=00000000&color=adbac7&line=58a6ff&point=3fb950&area=true&area_color=1f6feb33&hide_border=true" width="95%" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      FUN ZONE                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="28" /> The Vibe Check
-
-</div>
-
-<div align="center">
+### 💬 &nbsp;Parting Words
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   🤓  I think in waveforms, not flowcharts                      │
-│   💀  I've stared at timing diagrams longer than Netflix         │
-│   🔥  Debug flow: Coffee → Verilog → Simulate → Cry → Repeat   │
-│   🧠  Chose hardware because software bugs don't cost $10M      │
-│   🎵  Built an audio equalizer on an FPGA — hardware vibes 🎸   │
-│   🏆  100+ RTL designs and counting                             │
-│   🫡  "Your segfault is cute. Try a setup time violation."      │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+ ╔══════════════════════════════════════════════════════════════╗
+ ║                                                              ║
+ ║   "Software engineers have stack overflow.                   ║
+ ║    I have timing violations at 3 AM."                        ║
+ ║                                                              ║
+ ║                              — Eswar, probably after tape-out║
+ ║                                                              ║
+ ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       TROPHIES                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
-## &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /> GitHub Trophies
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=EswarAdithya011&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        GITHUB STATS                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Analytics
-
-<br>
-
-<a href="https://github.com/EswarAdithya011">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EswarAdithya011&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EswarAdithya011&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</a>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EswarAdithya011&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EswarAdithya011&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" width="95%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       CONNECT WITH ME                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> Let's Connect
-
-<br>
-
-<a href="https://www.linkedin.com/in/eswar-adithya/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:eswaradithyakorrapolu@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/EswarAdithya011">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
-
+<sub>If you've scrolled this far, you should probably just hire me. 🤝</sub>
 </div>
